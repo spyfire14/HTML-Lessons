@@ -3,15 +3,11 @@
   padding: 0;
 }
 
-body{
-  background-color: #ffffff;
-}
-
 .wrapper{
   margin: 0  auto 0 60px;
   width: 1000px;
 }
 
-.img-writing{
-  width: 250px;
+video{
+  width: 100%;
 }
